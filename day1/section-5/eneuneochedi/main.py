@@ -7,6 +7,7 @@ response = ""
 for acctNum in accounts:
     if acctNum == account_to_search:
         response = "200 - Account found"
+        break
     else:
         response = "404 - Account not found"
 
