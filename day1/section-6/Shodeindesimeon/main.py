@@ -4,8 +4,8 @@ import unittest
 import math
 
 def find_min_max(*args):
-    min_num = float("inf") # smallest possible number in python
-    max_num = float("-inf") # largest possible number in python
+    min_num = float("inf") # Start high: will be reduced by any real number
+    max_num = float("-inf") # Start low: will be increased by any real number
   
     for num in args:
       if num < min_num:
