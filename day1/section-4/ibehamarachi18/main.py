@@ -5,12 +5,11 @@ score = int(input("Enter your exam score (0-100): "))
 if score >= 70:
     print("A")
 elif score >= 60:
-    grade = "B"
+    print("B")
 elif score >= 50:
-    grade = "C"
+    print("C")
 elif score >= 40:
-    grade = "D"
+    print("D")
 else:
-    grade = "F"
+    print("F")
 # Print the result
-print(f"Your grade is: {grade}")
