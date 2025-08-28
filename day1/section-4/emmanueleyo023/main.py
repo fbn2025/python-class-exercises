@@ -1,7 +1,14 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+score = int(input("Enter your exam score (0-100): "))
 
-account_to_search = input("Enter account number to search: ")
+# write your if/elif/else statements here
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
-
+if score >= 70:
+    print("You got an A!")
+elif score >= 60:
+    print("You got a B!")
+elif score >= 50:
+    print("You got a C!")
+elif score >= 40:
+    print("You got a D!")
+else:
+    print("You got an F!")
