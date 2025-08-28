@@ -1,7 +1,12 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+score = int(input("What is your score: "))
 
-account_to_search = input("Enter account number to search: ")
-
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
-
+if score in range(70, 100):
+    print("A")
+elif score in range(60, 69):
+    print("B")
+elif score in range(50, 59):
+    print("C")
+elif score in range(40, 49):
+    print("D")
+else:
+    print("F")
