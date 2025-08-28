@@ -1,18 +1,17 @@
 my_internet_profile = {
-    "name": None,                          # string
-    "twitter_handle": None,                # string
-    "favorite_physics_constant": None,     # float
-    "age": None,                           # integer (you can lie about this lol)
-    "finished_uni": None,                  # boolean
-    "hobbies": None,                       # tuple
-    "skills": None,                        # list
-    "personal_quotes": None,               # set (one or two)
+    "name": "Faith Ubara-Collins",                          # string
+    "twitter_handle": "@Don'tLook",                # string
+    "favorite_physics_constant": 3.14,     # float
+    "age": 21,                           # integer (you can lie about this lol)
+    "finished_uni": True,                  # boolean
+    "hobbies": ('Relaxing', "Swimming"),                       # tuple
+    "skills": ["Boxing", "Investigating" ],                      # list
+    "personal_quotes": {"We live to love"},               # set (one or two)
     "contact_info": {                      # dictionary (nested)
-        "phone_number": None,              # integer (you can put a fake one)
-        "email": None,                     # string (you can put a fake one)
-        "website": None,                   # string
+        "phone_number": +23456789,              # integer (you can put a fake one)
+        "email": "Jars@gmail.com",                     # string (you can put a fake one)
+        "website": "www.jars.org",                   # string
     },
 }
 
 print(my_internet_profile)
-
