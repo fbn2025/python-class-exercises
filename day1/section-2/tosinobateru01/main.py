@@ -8,7 +8,7 @@ my_internet_profile = {
     "skills": ["Communication", "Active listening", "Data Analysis"],                        # list
     "personal_quotes": ({"Respect everybody, fear nobody", "you can never impress a dead man"}),               # set (one or two)
     "contact_info": {                      # dictionary (nested)
-        "phone_number": "08100666419",              # integer (you can put a fake one)
+        "phone_number": 08100666419,              # integer (you can put a fake one)
         "email": "tosinobateru@gmail.com",                     # string (you can put a fake one)
         "website": "www.exponentialtofam.org",                   # string
     },
