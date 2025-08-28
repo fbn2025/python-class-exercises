@@ -1,7 +1,5 @@
 # Class Exercise on Conditionals
 
-## Class Exercise on Conditionals
-
 # Task: Write a program that:
 # Asks the user for their exam score (0–100).
 # Uses conditionals to print their grade:
