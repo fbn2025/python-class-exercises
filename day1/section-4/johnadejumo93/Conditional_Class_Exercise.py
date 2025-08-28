@@ -3,18 +3,18 @@
 # write your if/elif/else statements here
 
 print ("Hello, how are You?")
-Score = int(input("what is your score (0 - 100): "))
+score = int(input("what is your score (0 - 100): "))
 
-if Score >= 70:
+if score >= 70:
     print("your Grade is A")
 
-elif Score >= 60:
+elif score >= 60:
     print("your Grade is B")
 
-elif Score >= 50:
+elif score >= 50:
     print("your Grade is C")
 
-elif Score >= 40:
+elif score >= 40:
     print("your Grade is D")
 
 else: 
