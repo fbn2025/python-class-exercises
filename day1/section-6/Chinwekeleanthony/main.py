@@ -14,7 +14,6 @@ def find_min_max(*args):
     return (min_num, max_num)
 
 
-# Test cases
 print(find_min_max(5, 8, 4, 6, 0, 3))                 
 print(find_min_max(-6, -10, 35, 314, 35, 2, -2))     
 import math
