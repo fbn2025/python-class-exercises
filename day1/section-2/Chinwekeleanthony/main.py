@@ -1,9 +1,17 @@
-name = input("what is your name: ")
-age = input("What is your age: ")
-interest1 = input("What is your number 1 interest: ")
-interest2 = input("What is your number 2 interest: ")
-interest3 = input("What is your number 3 interest: ")
+my_internet_profile = {
+    "name": "Chinwekele",                          # string
+    "twitter_handle": "Uncle_stoney",                # string
+    "favorite_physics_constant": 3.14,     # float
+    "age": 205,                           # integer (you can lie about this lol)
+    "finished_uni": True,                  # boolean
+    "hobbies": ("gaming","photography"),     # tuple
+    "skills": ["writing","singing"],         # list
+    "personal_quotes": {"i have a dream"},   # set (one or two)
+    "contact_info": {                        # dictionary (nested)
+        "phone_number":+2349013107533,       # integer (you can put a fake one)
+        "email": 'Unceman@gmail.com',        # string (you can put a fake one)
+        "website": 'www.HelpmeGod.com',                   # string
+    },
+}
 
-combined = f"your name is {name}, you are{age} years old and your Top three interests are {interest1}, {interest2}, and {interest3}"
-
-print(combined)
+print(my_internet_profile)
