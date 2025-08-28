@@ -1,7 +1,7 @@
 my_internet_profile = {
     "name": "Badmus",                          # string
     "twitter_handle": "Harderwaleysneh",                # string
-    "favorite_physics_constant": None,     # float
+    "favorite_physics_constant": 6.62607015e-34,     # float
     "age": 300,                           # integer (you can lie about this lol)
     "finished_uni": True,                  # boolean
     "hobbies": ("Gaming", "Music", "Movies"),                       # tuple
