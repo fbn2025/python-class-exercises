@@ -1,7 +1,21 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+# Class Exercise on Conditionals
 
-account_to_search = input("Enter account number to search: ")
+# Ask the user for their exam score
+score = int(input("Enter your exam score (0–100): "))
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+# Use conditionals to determine grade
+if score >= 70:
+    grade = "A"
+elif score >= 60:
+    grade = "B"
+elif score >= 50:
+    grade = "C"
+elif score >= 40:
+    grade = "D"
+else:
+    grade = "F"
+
+# Print the result
+print(f"Your score is {score}, so your grade is {grade}.")
+
 
