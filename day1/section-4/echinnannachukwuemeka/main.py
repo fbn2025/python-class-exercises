@@ -14,3 +14,16 @@ elif 0 <= score < 40:
     print("Your grade is F")
 else:
     print("Invalid input. Please enter a numeric score.")
+
+
+
+
+accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+    
+account_to_search = input("Enter account number to search: ")
+    
+for account in accounts:
+    if account == account_to_search:
+            print("Account found.")
+            break
+print("Account not found.")
