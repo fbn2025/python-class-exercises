@@ -1,3 +1,5 @@
+
+#Conditionals
 score = int(input("What is your score: "))
 
 if score in range(70, 100):
@@ -10,3 +12,4 @@ elif score in range(40, 49):
     print("D")
 else:
     print("F")
+
