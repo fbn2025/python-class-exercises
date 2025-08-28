@@ -1,4 +1,10 @@
-score = int(input("Enter your exam score (0-100): "))
+name = input("What is your name?: ")
+age = int(input("What is your age?: "))
+interest1 = input("What is your first interest?: ")
+interest2 = input("What is your second interest?: ")
+interest3 = input("What is your third interest?:  ")
 
-# write your if/elif/else statements here
+combined = f"Your name is {name} and you are {age} and your interests are {interest1}, {interest2}, and {interest3}" 
+
+print(combined)
 
