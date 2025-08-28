@@ -21,4 +21,4 @@ while True:
         print("Valid account number entered: ", account_number)
         break
     else:
-        print("❌ Invalid input. Please enter a valid 10-digit account number and try again.")
+        print("Invalid input. Please enter a valid 10-digit account number and try again.")
