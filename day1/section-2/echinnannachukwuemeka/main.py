@@ -1,18 +1,17 @@
 my_internet_profile = {
-    "name": None,                          # string
-    "twitter_handle": None,                # string
-    "favorite_physics_constant": None,     # float
-    "age": None,                           # integer (you can lie about this lol)
-    "finished_uni": None,                  # boolean
-    "hobbies": None,                       # tuple
-    "skills": None,                        # list
-    "personal_quotes": None,               # set (one or two)
-    "contact_info": {                      # dictionary (nested)
-        "phone_number": None,              # integer (you can put a fake one)
-        "email": None,                     # string (you can put a fake one)
-        "website": None,                   # string
+    "name": "Echi Nnanna Chukwuemeka",
+    "twitter_handle": "@echinnanna",
+    "favorite_physics_constant": 3.142,
+    "age": 28,
+    "finished_uni": True,
+    "hobbies": ("reading", "coding"),
+    "skills": ["Python", "JavaScript", "SQL", "TypeScript", "Java", "React", "NextJs", "ExpressJs", "Prisma ORM", "C#"],
+    "personal_quotes": {"To be or not to be", "I think, therefore I am"},
+    "contact_info": {
+        "phone_number": 2348039252566,
+        "email": "echinnannachukwuemeka@gmail.com",
+        "website": "www.censmart.io",
     },
 }
 
 print(my_internet_profile)
-
