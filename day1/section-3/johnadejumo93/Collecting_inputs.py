@@ -4,6 +4,6 @@ interest1 = input("What is your number 1 interest: ")
 interest2 = input("What is your number 2 interest: ")
 interest3 = input("What is your number 3 interest: ")
 
-combined = f"Your name is {name} and my interests are {interest1 ["reading"]}, {interest2 ["writing"]} and {interest3 ["talking"]}"
+combined = f"My name is {name} and my interests are {interest1}, {interest2} and {interest3}"
 
 print(combined)
