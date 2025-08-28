@@ -9,11 +9,11 @@ score = int(input("Enter your exam score (0-100): "))
 
 if score >= 70:
     print("Your grade is A")
-elif score >= 60 and score < 70:
+elif score >= 60:
     print("Your grade is B")
-elif score >= 50 and score < 60:
+elif score >= 50:
     print("Your grade is C")
-elif score >= 40 and score < 50:
+elif score >= 40:
     print("Your grade is D")
 else:
     print("Your grade is F")
