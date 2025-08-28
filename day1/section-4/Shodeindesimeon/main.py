@@ -1,7 +1,16 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+Exam = int(input("What is your exam score? "))
 
-account_to_search = input("Enter account number to search: ")
+if Exam >= 70:
+    print ("you got A")
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+elif Exam >= 60 and Exam <= 69:
+    print("You got B")
 
+elif Exam >= 50 and Exam <= 59:
+    print("You got C")
+
+elif Exam >= 40 and Exam <= 49:
+    print("You got D")
+
+else:
+    print("You got F")
