@@ -6,7 +6,7 @@ my_internet_profile = {
     "finished_uni": True,                                                                                     # boolean
     "hobbies": ("Coding", "Geo-Politics", "Research", "Anime"),                                               # tuple
     "skills": ["Backend", "Open-source", "Rust", "Blockchain"],                                               # list
-    "personal_quotes": {"It's better to try and fail, than to try again", "Consistency birth mastery"},       # set (one or two)
+    "personal_quotes": {"It's better to try and fail, than not to try again", "Consistency births mastery"},       # set (one or two)
     "contact_info": {                                                                                         # dictionary (nested)
         "phone_number": 2348168259463,                                                                        # integer (you can put a fake one)
         "email": "infoaboutgideon@gmail.com",                                                                 # string (you can put a fake one)
