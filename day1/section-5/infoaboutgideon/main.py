@@ -14,7 +14,6 @@ for account in accounts:
 
 print("200 - Account found") if account_is_found else print("404 - Account not found")
 
-
 # Exercise 2 - While Loop
 while True:
     account_number = input("Enter your 10-digit account number: ")
