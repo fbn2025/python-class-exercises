@@ -1,6 +1,4 @@
 # Exercise 2 – Valid Account Number Input (While Loop)
-
-# Banks only accept 10-digit numeric account numbers
 while True:
     account_number = input("Enter your 10-digit account number: ")
 
