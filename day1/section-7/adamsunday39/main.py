@@ -1,6 +1,5 @@
 class CalculatorHistory:
     def __init__(self):
-        # Initialize all operation histories
         self.addition = []
         self.subtraction = []
         self.multiplication = []
@@ -18,7 +17,6 @@ class CalculatorHistory:
 class Calculator:
     def __init__(self, log_results: bool = False):
         self.log_results = log_results
-        # Use CalculatorHistory object instead of dictionary
         self.history = CalculatorHistory()
 
     def add(self, num1: float, num2: float):
@@ -27,7 +25,6 @@ class Calculator:
         if self.log_results:
             print(f"The sum of {num1} and {num2} is {result}")
 
-        # Now history is accessed via object attributes
         self.history.addition.append((num1, num2, result))
         return result
 
@@ -55,7 +52,6 @@ class Calculator:
         return result
 
 
-# Example usage
 calculator = Calculator()
 
 calculator.add(4, 5)
@@ -65,4 +61,4 @@ calculator.subtract(50, 10)
 calculator.multiply(3, 7)
 calculator.divide(10, 2)
 
-print(calculator.history)  # Prints structured history
+print(calculator.history) 
