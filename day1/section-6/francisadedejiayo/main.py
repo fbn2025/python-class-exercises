@@ -1,13 +1,15 @@
 import math
 def find_min_max(*args):
-  min_num = float("inf") # smallest possible number in python
-  max_num = float("-inf") # largest possible number in python. Any real number will be greater than negative infinity. 
+  min_num = float("-inf") # smallest possible number in python
+  max_num = float("inf") # largest possible number in python
 
   for i in args:
-    if i < min_num:
+    if i > min_num:
        min_num = i
-    if i > max_num:
+    if i < max_num:
        max_num = i
+
+  min_num, max_num = max_num, min_num     
 
   return (min_num, max_num)
   
