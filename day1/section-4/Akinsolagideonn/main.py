@@ -1,7 +1,12 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+score = float(input("Enter your score (in %): "))
 
-account_to_search = input("Enter account number to search: ")
-
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
-
+if score >= 70:
+    print("Your Grade is A")
+elif score >= 60:
+        print("Your Grade is B") 
+elif score >= 50:
+        print("Your Grade is C")
+elif score >= 40:
+        print("Your Grade is D")
+else:
+        print("Your Grade is F")

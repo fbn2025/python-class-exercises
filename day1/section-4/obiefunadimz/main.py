@@ -1,7 +1,22 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+# Get the score
+score = float(input("What is your exam score: "))
 
-account_to_search = input("Enter account number to search: ")
+# Get grade when score is above 70
+if score >= 70:
+    print("Your Grade is A")
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+# Get grade when score is from 60 to 69
+elif score >= 60:
+    print("Your Grade is B")
 
+# Get grade when score is from 50 to 59
+elif score >=50:
+    print("Your Grade is C")
+
+# Get grade when score is from 40 to 49
+elif score >= 40:
+    print("Your Grade is D")
+
+# Get grade when score is below 40
+else:
+    print("Your Grade is F")

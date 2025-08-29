@@ -1,7 +1,18 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+def gradingSystem ():
+    score = float(input("Enter your score (0-100): "))
 
-account_to_search = input("Enter account number to search: ")
+    if score >= 70 and score <= 100:
+        print('You had an excellent performance in your exam. Your grade is A')
+    elif score >= 60 and score < 70:
+        print('You had a very good performance in your exam. Your grade is B')
+    elif score >=50 and score < 60:
+        print('You had a good performance in your exam. Your grade is C')
+    elif score >=40 and score < 50:
+        print('You had a poor performance in your exam, please try harder next time. Your grade is D')
+    elif score >= 0 and score < 40:
+        print('You failed your exam. Your grade is F')
+    else:
+        print('You entered an invalid score. Please enter a score between 0 and 100.')
+        gradingSystem()
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
-
+gradingSystem()

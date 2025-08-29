@@ -1,18 +1,17 @@
 my_internet_profile = {
-    "name": None,                          # string
-    "twitter_handle": None,                # string
-    "favorite_physics_constant": None,     # float
-    "age": None,                           # integer (you can lie about this lol)
-    "finished_uni": None,                  # boolean
-    "hobbies": None,                       # tuple
-    "skills": None,                        # list
-    "personal_quotes": None,               # set (one or two)
-    "contact_info": {                      # dictionary (nested)
-        "phone_number": None,              # integer (you can put a fake one)
-        "email": None,                     # string (you can put a fake one)
-        "website": None,                   # string
+    "name": "Ande",                        
+    "twitter_handle": "andealexis",              
+    "favorite_physics_constant": 3.14,     
+    "age": 29,                           
+    "finished_uni": True,                 
+    "hobbies": ("Football", "Reading"),                    
+    "skills": ["Software", "Data Analysis"] ,                     
+    "personal_quotes": "I can never be poor",               
+    "contact_info": {                      
+        "phone_number": 90597553483,              
+        "email": "ande@gmail.com",                   
+        "website": "www.ande.com",                   
     },
 }
 
 print(my_internet_profile)
-

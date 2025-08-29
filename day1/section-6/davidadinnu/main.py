@@ -1,8 +1,14 @@
-def find_min_max(*args):
-  min_num = float("-inf") # smallest possible number in python
-  max_num = float("inf") # largest possible number in python
-  
-  return (min_num, max_num)
+import math  
 
-# TODO: write test cases and pass them to the function. Print the results
+# The import math library helps to evaluate the math.e element which equals 2.17
+
+def find_min_max(*args):
+      min_num = min(args) # smallest possible number in python
+      max_num = max(args) # largest possible number in python
+      print((min_num, max_num))
+     
+
+find_min_max(4, 7, 2, 9, 0, 3)
+find_min_max(-9, -12, 38, 489, 38, 2, -2)
+find_min_max(3903, 28, math.e, -90)
 

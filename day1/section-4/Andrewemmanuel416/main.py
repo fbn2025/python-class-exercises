@@ -1,7 +1,24 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+# Program to determine grade based on exam score
 
-account_to_search = input("Enter account number to search: ")
+try:
+    # Ask the user for their exam score
+    score = int(input("Enter your exam score (0-100): "))
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+    # Validate input range
+    if score < 0 or score > 100:
+        print("Invalid score! Please enter a number between 0 and 100.")
+    else:
+        # Check the grade using if/elif/else
+        if score >= 70:
+            print("Grade: A")
+        elif score >= 60:
+            print("Grade: B")
+        elif score >= 50:
+            print("Grade: C")
+        elif score >= 40:
+            print("Grade: D")
+        else:
+            print("Grade: F")
 
+except ValueError:
+    print("Invalid input! Please enter a numeric value between 0 and 100.")
