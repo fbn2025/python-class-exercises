@@ -4,5 +4,5 @@ def find_min_max(*args):
   
   return (min_num, max_num)
 
-print(find_min_max(-9, -100, 38, 450, 38, 2, -1))
+find_min_max(-9, -100, 38, 450, 38, 2, -1)
 # TODO: write test cases and pass them to the function. Print the results
