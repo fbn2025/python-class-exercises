@@ -12,10 +12,10 @@ for account_number in accounts:
         account_is_found = True
 
 if account_is_found == True:
-            print("okay, account_is_found")
+            print("200 - account_is_found")
          
 else:
-            print("not okay, account_is_not_found")
+            print("400 - account_is_not_found")
 
 Exercise 2 - While Loop
 while True:
@@ -27,5 +27,4 @@ while True:
     if account_number.isdigit() and len(account_number) == 10:
         print("Account number accepted.")
         break
-    else:
-        print("Account number not accepted. Please try again.")
+
