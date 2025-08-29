@@ -17,6 +17,7 @@ import math
 def find_min_max(*args):
   min_num = float("-inf") # smallest possible number in python
   max_num = float("inf") # largest possible number in python
+
   if not args:
      return (min_num, max_num)
 
