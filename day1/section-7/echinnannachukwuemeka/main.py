@@ -1,19 +1,28 @@
+# Task: implement a new class called CalculatorHistory, then initialize it within the init method of the calculator class. Purpose: To make it possible to use object accessors to access history methods rather than dictionary accessors Starting point:
+
 class CalculatorHistory:
     def __init__(self):
-        # add the remaining
         self.addition = []
+        self.subtraction = []
+        self.division = []
+        self.multiplication = []
 
-    def __str__(self):
-        return f"""
-            Addition: {self.addition}
-        """
+    def log_addition(self, num1, num2, result):
+        self.addition.append((num1, num2, result))
+
+    def log_subtraction(self, num1, num2, result):
+        self.subtraction.append((num1, num2, result))
+
+    def log_division(self, num1, num2, result):
+        self.division.append((num1, num2, result))
+
+    def log_multiplication(self, num1, num2, result):
+        self.multiplication.append((num1, num2, result))
 
 class Calculator:
     def __init__(self, log_results: bool = False):
         self.log_results = log_results
-        self.history = {
-            "addition": []
-        }
+        self.history = CalculatorHistory()
 
     def add(self, num1: float, num2: float):
         result = num1 + num2
@@ -21,18 +30,14 @@ class Calculator:
         if self.log_results:
             print(f"The sum of {num1} and {num2} is {result}")
 
-        self.history["addition"].append((num1, num2, result))
-        # goal 
-        # self.history.addition.append((num1, num2, result))
+        self.history.log_addition(num1, num2, result)
 
         return result
 
 
+
+# Example
 calculator = Calculator()
-
-calculator.add(4, 5)
-calculator.add(20, 25)
-calculator.add(-20, 30)
-
-print(calculator.history)
-
+print(calculator.add(4, 5))
+calculatorHistory = calculator.history
+print(calculatorHistory.addition)
