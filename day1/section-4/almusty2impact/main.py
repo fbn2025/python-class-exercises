@@ -1,7 +1,28 @@
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+# Class Exercise on Conditionals
 
-account_to_search = input("Enter account number to search: ")
+# Task: Write a program that:
+# Asks the user for their exam score (0–100).
+# Uses conditionals to print their grade:
 
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+# 70 and above → "A"
+# 60–69 → "B"
+# 50–59 → "C"
+# 40–49 → "D"
+# below 40 → "F"
 
+# Goal: To help you learn how to branch logic with if/elif/else.
+
+# collect student input
+score = int(input("Please input your score: "))
+
+
+if score >= 70:
+    print("A")
+elif score >= 60:
+    print("B")
+elif score >= 50:
+    print("C")
+elif score >= 40:
+    print("D")
+else:
+    print("F")

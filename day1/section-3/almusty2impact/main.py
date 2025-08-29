@@ -1,24 +1,9 @@
-# write your if/elif/else statements here
-"""
-score exercise
-THis program will ask the user to input their score
-and it will print out their grade based on the score 
-A: 70 and above
-B: 60 - 69
-C: 50 - 59
-D: 40 - 49
-F: below 40
-"""
-score = int(input ("Enter your exam score(0-100): ")) 
-if score >= 70:
-    print("A")
-elif score >= 60:
-    print("B")
-elif score >= 50:
-    print("C")
-elif score >= 40:
-    print("D")
-elif score < 40:
-    print("F")
-else:
-    print("Enter your correct score!")
+name = input("What is your name: ")
+age = input("How old are you: ")
+interest1 = input("What is your number 1 interest: ")
+interest2 = input("What is your number 2 interest: ")
+interest3 = input("What is your number 3 interest:  ")
+
+combined = f"Your name is {name} and, you are {age} years old and your interests are {interest1}, {interest2}, and {interest3}"
+
+print(combined)
