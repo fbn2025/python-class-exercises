@@ -49,7 +49,7 @@ class SavingsAccount(BankAccount):
 
 #  Example usage
 if __name__ == "__main__":
-    account = SavingsAccount("Augustine", 10000)
+    account = SavingsAccount("Drew", 10000)
     print(account)
 
     account.deposit(5000)
