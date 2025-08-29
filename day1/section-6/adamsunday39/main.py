@@ -1,9 +1,9 @@
 def find_min_max(*args):
     if not args:
-        return None, None  # handle empty input
+        return None, None  
 
-    min_num = float("inf")   # start with largest possible number for min
-    max_num = float("-inf")  # start with smallest possible number for max
+    min_num = float("inf")   # starts with largest possible number for min
+    max_num = float("-inf")  # starts with smallest possible number for max
 
     for num in args:
         if num < min_num:
