@@ -9,7 +9,7 @@ my_internet_profile = {
     "personal_quotes": {"Keep pushing forward", "Math is life"},               # set (one or two)
     "contact_info": {                       # dictionary (nested)
         "phone_number": 36445550,           # integer (you can put a fake one)
-        "email": "oluji@example.com",       # string (you can put a fake one)
+        "email": "oluwatobi@example.com",       # string (you can put a fake one)
         "website": "https://oluwatobiportfolio.com",                           # string
     },
 }
