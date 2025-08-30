@@ -1,23 +1,23 @@
-score = int(input("Enter your exam score (0-100): "))
+def grade_score(score):
+    if score < 0 or score > 100:
+        return "Invalid score - please enter a score between 0 and 100"
+    elif score >= 70:
+        return "Your grade is A"
+    elif score >= 60:
+        return "Your grade is B"
+    elif score >= 50:
+        return "Your grade is C"
+    elif score >= 40:
+        return "Your grade is D"
+    else:
+        return "Your grade is F"
 
-# write your if/elif/else statements here
-#70 and above → "A"
-#60–69 → "B"
-#50–59 → "C"
-#40–49 → "D"
-#below 40 → "F"
+try:
+    score = int(input("Enter your exam score (0-100): "))
+    print(grade_score(score))
+except ValueError:
+    print("Invalid input - please enter a number")
 
-if score < 0:
-    print("Invalid score - number cannot be negative")
-elif score > 100:
-    print("Invalid score - Maximum score is 100")
-elif score >= 70:
-    print("Your grade is A")
-elif score >= 60:
-    print("Your grade is B")
-elif score >= 50:
-    print("Your grade is C")
-elif score >= 40:
-    print("Your grade is D")
-else:
-    print("Your grade is F")
+
+
+
