@@ -13,6 +13,10 @@ class AbstractBankAccount(ABC):
     def withdraw(self, withdrawal_amount):
         pass
 
+    @abstractmethod
+    def __str__(self):
+        pass
+
 
 class BankAccount(AbstractBankAccount):
     def __init__(self, name, balance=0):
