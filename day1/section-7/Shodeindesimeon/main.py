@@ -23,20 +23,18 @@ class Calculator:
         result = num1 + num2
 
         if self.log_results:
-            print(f"{num1} + {num2} = {result}")
+            print(f"The sum of {num1} and {num2} is {result}")
 
         self.history.addition.append((num1, num2, result))
-
         return result
     
     def subtract(self, num1: float, num2: float):
         result = num1 - num2
 
         if self.log_results:
-            print(f"{num1} - {num2} = {result}")
+            print(f"The difference between {num1} and {num2} is {result}")
 
         self.history.subtraction.append((num1, num2, result))
-
         return result
     
     def divide(self, num1: float, num2: float):
@@ -46,27 +44,26 @@ class Calculator:
         result = num1 / num2
 
         if self.log_results:
-            print(f"{num1} / {num2} = {result}")
+            print(f"{num1} divided by {num2} equals {result}")
 
         self.history.division.append((num1, num2, result))
-
         return result
     
     def multiply(self, num1: float, num2: float):
         result = num1 * num2
 
         if self.log_results:
-            print(f"{num1} * {num2} = {result}")
+            print(f"The product of {num1} and {num2} is {result}")
 
         self.history.multiplication.append((num1, num2, result))
-
         return result
 
+# --- Example usage ---
 calculator = Calculator(log_results=True)
 
 calculator.add(4, 5)
-calculator.subtract(20, 25)
-calculator.divide(20, 25)
-calculator.multiply(-20, 30)
+calculator.subtract(20, 10)
+calculator.divide(100, 4)
+calculator.multiply(3, 7)
 
-print(f"The calculator history is {calculator.history}")
+print(f"The calculator history is:\n{calculator.history}")
