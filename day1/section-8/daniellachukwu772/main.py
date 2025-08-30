@@ -48,7 +48,7 @@ class SavingsAccount(BankAccount):
 # Example usage
 account = BankAccount("Alice", 1000)
 ghandi = SavingsAccount("danies", 2000, 5)
-#ghandi = SavingsAccount("Ghandi", 2000, 0.05)
+#danies = SavingsAccount("danies", 2000, 0.05)
 print(account)
 print(danies)
 print(danies.withdraw(5000))
