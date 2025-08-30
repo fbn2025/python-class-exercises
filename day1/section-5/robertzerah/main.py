@@ -1,21 +1,16 @@
 # Exercise 1 - For Loop
+
 accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
 
-account_to_search = input("Enter account number to search: ")
-
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
-account_is_found = False
-
-def find_account_number(account_to_search):
-    for account_number in accounts:
-        if account_to_search == account_number:
-            return "200, account found"
+def find_account_number(account_to_search, accounts_list):
+    if account_to_search in accounts_list:
+        return "200, account found"
 
     return "404, account not found"
 
-result = find_account_number(account_to_search)
-print(result)  
+account_to_search = input("Enter account number to search: ")
+result = find_account_number(account_to_search, accounts)
+print(result) 
 
 
 while True:
