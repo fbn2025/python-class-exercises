@@ -54,5 +54,3 @@ calculator.subtract(20, 25)
 calculator.divide(20, 25)
 calculator.multiply(-20, 30)
 print(calculator.history)
-
-This code completes the Calculator class with subtraction, division, and multiplication operations, and it uses the CalculatorHistory class to store the history of operations. The log_results parameter determines whether the results of each operation are printed to the cons
