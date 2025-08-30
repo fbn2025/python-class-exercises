@@ -1,13 +1,13 @@
-# Asks the user for their exam score (0–100).
-# Uses conditionals to print their grade
-score = int(input("Enter your exam score (0-100): "))
-if score >= 70:
-    print("A")
-elif score >= 60:
-    print("B")
-elif score >= 50:
-    print("C")
-elif score >= 40:
-    print("D")
-else:
-    print("F")
+name = input("What is your name: ")
+age = input("What is your age: ")
+interest1 = input("What is your number 1 interest: ")
+interest2 = input("What is your number 2 interest: ")
+interest3 = input("What is your number 3 interest: ")
+
+combined = f"My name is {name} and I am {age} and my interests are {interest1[0]}, {interest2[1]}, and {interest3[2]}"
+
+print(combined)
+
+
+
+
