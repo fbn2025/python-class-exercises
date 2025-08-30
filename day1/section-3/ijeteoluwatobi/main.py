@@ -18,3 +18,5 @@ combined = (
     f"Your name is {name}, you are {age} years old, "
     f"and your interests are {interest1}, {interest2}, and {interest3}."
 )
+
+print(combined)
