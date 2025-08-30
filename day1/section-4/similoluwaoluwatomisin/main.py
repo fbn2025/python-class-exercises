@@ -1,18 +1,31 @@
-# Exercise 1 - For Loop
-# TODO: use a for loop to check if search_account is in accounts
-# Hint: loop through accounts and compare the `account_to_search` to the looped element
+# Class Exercise on Conditionals
 
-accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
+# Task: Write a program that:
+# Asks the user for their exam score (0–100).
+# Uses conditionals to print their grade:
 
-account_to_search = input("Enter account number to search: ")
+# 70 and above → "A"
+# 60–69 → "B"
+# 50–59 → "C"
+# 40–49 → "D"
+# below 40 → "F"
 
-found = False
-for account in accounts:
-    if account == account_to_search:
-        found = True
-        break
-if found:
-    print("200 Account found.")
+# Goal: To help you learn how to branch logic with if/elif/else.
+
+# collect student input
+score = int(input("Enter your exam score (0-100): "))
+if score >= 70:
+    print("A")
+elif score >= 60:
+    print("B")
+elif score >= 50:
+    print("C")
+elif score >= 40:
+    print("D")
 else:
-    print("404 Account not found.")  
+    print("F")
+
+
+
+
 
