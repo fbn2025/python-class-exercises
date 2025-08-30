@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 
-#  Abstract base class
 class AbstractBankAccount(ABC):
     @abstractmethod
     def deposit(self, amount):
@@ -15,7 +14,6 @@ class AbstractBankAccount(ABC):
         pass
 
 
-# Concrete BankAccount class
 class BankAccount(AbstractBankAccount):
     def __init__(self, holder_name, balance=0.0):
         self.holder_name = holder_name
@@ -37,7 +35,6 @@ class BankAccount(AbstractBankAccount):
         return f"Account Holder: {self.holder_name}, Balance: ₦{self.balance:.2f}"
 
 
-#  SavingsAccount subclass with interest
 class SavingsAccount(BankAccount):
     def add_interest(self, rate):
         if rate > 0:
@@ -47,13 +44,11 @@ class SavingsAccount(BankAccount):
             print("Interest rate must be positive.")
 
 
-#  Example usage
 if __name__ == "__main__":
-    account = SavingsAccount("Augustine", 10000)
-    print(account)
+    savings = SavingsAccount("Augustine", 10000)
+    print(savings)
+    savings.deposit(5000)
+    savings.withdraw(3000)
+    savings.add_interest(5)  # 5% interest
+    print(savings)
 
-    account.deposit(5000)
-    account.withdraw(3000)
-    account.add_interest(5)  # 5% interest
-
-    print(account)
