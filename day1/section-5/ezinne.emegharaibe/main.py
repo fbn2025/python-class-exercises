@@ -17,7 +17,9 @@ if account_is_found == True:
 else:
             print("400 - account_is_not_found")
 
-Exercise 2 - While Loop
+
+
+# Exercise 2 - While Loop
 while True:
     account_number = input("Enter your 10-digit account number: ")
 
