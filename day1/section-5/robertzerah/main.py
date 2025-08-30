@@ -7,14 +7,15 @@ account_to_search = input("Enter account number to search: ")
 # Hint: loop through accounts and compare the `account_to_search` to the looped element
 account_is_found = False
 
-for account_number in accounts:
-    if account_number == account_to_search:
-        account_is_found = True
+def find_account_number(account_to_search):
+    for account_number in accounts:
+        if account_to_search == account_number:
+            return "200, account found"
 
-if account_is_found:
-    print("200 Account found.")
-else:
-    print("404 Account not found.")
+    return "404, account not found"
+
+result = find_account_number(account_to_search)
+print(result)  
 
 
 while True:

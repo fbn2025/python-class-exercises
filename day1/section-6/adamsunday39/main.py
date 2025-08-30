@@ -1,8 +1,22 @@
 def find_min_max(*args):
-  min_num = float("-inf") # smallest possible number in python
-  max_num = float("inf") # largest possible number in python
-  
-  return (min_num, max_num)
+    if not args:
+        return None, None  
 
-# TODO: write test cases and pass them to the function. Print the results
+    min_num = float("inf")   # starts with largest possible number for min
+    max_num = float("-inf")  # starts with smallest possible number for max
 
+    for num in args:
+        if num < min_num:
+            min_num = num
+        if num > max_num:
+            max_num = num
+
+    return (min_num, max_num)
+
+
+# Test cases
+print(find_min_max(4, 7, 1, 9, 0))     # (0, 9)
+print(find_min_max(-5, -1, -10, -3))   # (-10, -1)
+print(find_min_max(100))               # (100, 100)
+print(find_min_max())                  # (None, None)
+print(find_min_max(3.5, 2.1, 4.8, 0.0)) # (0.0, 4.8) 

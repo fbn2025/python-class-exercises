@@ -15,7 +15,6 @@
 # collect student input
 score = int(input("Please input your score: "))
 
-
 if score >= 70:
     print("A")
 elif score >= 60:
