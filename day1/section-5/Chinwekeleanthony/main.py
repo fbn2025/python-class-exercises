@@ -25,6 +25,6 @@ for account in accounts:
         break
 
 if found:
-    print("Account found!")
+    print("200-Account found!")
 else:
-    print("Account not found.")
+    print("404-Account not found!")
