@@ -15,11 +15,11 @@ else:
 
 #the second assignment class exercise is below
 
-account_number = input("Enter your 10-digit account number: ")
-while account_number:
+while True:
+    account_number = input("Enter your 10-digit account number: ")
     if len(account_number) == 10 and account_number.isdigit():
         print("Account number accepted.")
         break
     else:
         print("Invalid account number. Please try again.")
-        break
+        
