@@ -42,12 +42,13 @@ class SavingsAccount(BankAccount):
         return f"{self.name} you have a balance of {self.balance} and an interest rate of {self.interest_rate}"
 
     def add_interest(self):
-        self.balance += self.balance * (self.interest_rate/100)
+        self.balance += self.balance * (self.interest_rate/100 if self.interest_rate > 1 else self.interest_rate)
         return f"after adding interest your new balance is {self.balance}"
 
 # Example usage
 account = BankAccount("Alice", 1000)
 ghandi = SavingsAccount("Ghandi", 2000, 5)
+#ghandi = SavingsAccount("Ghandi", 2000, 0.05)
 print(account)
 print(ghandi)
 print(ghandi.withdraw(5000))
