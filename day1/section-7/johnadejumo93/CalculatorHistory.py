@@ -72,7 +72,6 @@ class Calculator:
         return result
     
     
-
 calculator = Calculator(log_results=True)
 
 calculator.add(4, 5)
