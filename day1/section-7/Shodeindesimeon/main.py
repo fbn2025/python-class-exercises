@@ -1,18 +1,17 @@
 class CalculatorHistory:
     def __init__(self):
-        # add the remaining
         self.addition = []
         self.subtraction = []
         self.division = []
         self.multiplication = []
 
     def __str__(self):
-        return f"""
-            Addition: {self.addition}
-            Subtraction: {self.subtraction}
-            Division: {self.division}
-            Multiplication: {self.multiplication}
-        """
+        return (
+            f"Addition: {self.addition}\n"
+            f"Subtraction: {self.subtraction}\n"
+            f"Division: {self.division}\n"
+            f"Multiplication: {self.multiplication}\n"
+        )
 
 
 class Calculator:
@@ -24,10 +23,8 @@ class Calculator:
         result = num1 + num2
 
         if self.log_results:
-            print(f"The sum of {num1} and {num2} is {result}")
+            print(f"{num1} + {num2} = {result}")
 
-        #self.history["addition"].append((num1, num2, result))
-        # goal 
         self.history.addition.append((num1, num2, result))
 
         return result
@@ -36,22 +33,21 @@ class Calculator:
         result = num1 - num2
 
         if self.log_results:
-            print(f"The sum of {num1} and {num2} is {result}")
+            print(f"{num1} - {num2} = {result}")
 
-        #self.history["subtraction"].append((num1, num2, result))
-        # goal 
         self.history.subtraction.append((num1, num2, result))
 
         return result
     
     def divide(self, num1: float, num2: float):
+        if num2 == 0:
+            raise ValueError("Cannot divide by zero")
+
         result = num1 / num2
 
         if self.log_results:
-            print(f"The sum of {num1} and {num2} is {result}")
+            print(f"{num1} / {num2} = {result}")
 
-        #self.history["division"].append((num1, num2, result))
-        # goal 
         self.history.division.append((num1, num2, result))
 
         return result
@@ -60,10 +56,8 @@ class Calculator:
         result = num1 * num2
 
         if self.log_results:
-            print(f"The sum of {num1} and {num2} is {result}")
+            print(f"{num1} * {num2} = {result}")
 
-        #self.history["multiplication"].append((num1, num2, result))
-        # goal 
         self.history.multiplication.append((num1, num2, result))
 
         return result
@@ -76,5 +70,4 @@ calculator.subtract(20, 25)
 calculator.divide(20, 25)
 calculator.multiply(-20, 30)
 
-#print(f"The calculator history is", calculator.history)
 print(f"The calculator history is {calculator.history}")
