@@ -1,20 +1,20 @@
 ## Class Exercise on OOP
 
-Task: Create a simple BankAccount class.
-It should store the account holder's name and balance.
-It should inherit from the AbstractBankAccount abstract class
+# Task: Create a simple BankAccount class.
+# It should store the account holder's name and balance.
+# It should inherit from the AbstractBankAccount abstract class
 
-It should have methods:
+# It should have methods:
 
-deposit(amount) -> adds to balance
-withdraw(amount) -> removes from balance (but not below 0)
-__str__() -> prints account details
+# deposit(amount) -> adds to balance
+# withdraw(amount) -> removes from balance (but not below 0)
+# __str__() -> prints account details
 
-Then Create a subclass called SavingsAccount that:
-Inherits from BankAccount
-Adds a method add_interest(rate) that increases the balance by a percentage
+# Then Create a subclass called SavingsAccount that:
+# Inherits from BankAccount
+# Adds a method add_interest(rate) that increases the balance by a percentage
 
-Goal: To practice creating your own classes, methods, inheritance, and state management.
+# Goal: To practice creating your own classes, methods, inheritance, and state management.
 
 # Solution
     
