@@ -2,9 +2,11 @@
 
 import math
 
+# The import math library helps to evaluate the math.e element which equals 2.17
+
 def find_min_max(*args):
-    min_num = float("inf") # Start high: will be reduced by any real number
-    max_num = float("-inf") # Start low: will be increased by any real number
+    min_num = float("inf") 
+    max_num = float("-inf") 
   
     for num in args:
       if num < min_num:
