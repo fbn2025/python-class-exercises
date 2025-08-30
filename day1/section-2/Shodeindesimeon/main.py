@@ -12,7 +12,6 @@ my_internet_profile = {
     "email": "shodeindesimeon@gmail.com",                                         # string (you can put a fake one)
     "website": "ogbeni.com",                                                      # string
     },
-
 }
 
 print(my_internet_profile)
