@@ -1,4 +1,5 @@
 ## Exercise 1 – Find an Account (for Loop)
+
 accounts = ["1234567890", "9876543210", "5555555555", "1111222233"]
 
 account_to_search = input("Enter account number to search: ")
@@ -10,9 +11,9 @@ for account in accounts:
         break
 
 if found:
-    print("Account found!")
+    print("200- Account found!")
 else:
-    print("Account not found.")
+    print("404- Account not found!")
     
 /
 # Exercise: Continuously prompt the user to enter a valid 10-digit account number.
@@ -22,7 +23,7 @@ while True:
     
     # Check if the account number has only digits and length is 10
     if account_number.isdigit() and len(account_number) == 10:
-        print ("Thank you! Your account number is valid.")
+        print ("Thank you! Your account number is valid and accepted.")
+        break
     else:
-        print("Invalid input. Please enter exactly 10 digits.")
-    # If valid -> break loop, else keep asking
+        print("Invalid input! Please Kindly enter your exact 10 digits.")
