@@ -6,11 +6,11 @@ account_to_search = input("Enter account number to search: ")
 
 for account in accounts:
     if account_to_search == account:
-        print("account found")
+        print("200 - account found")
         break
     
 else:
-    print("account not found")
+    print("404 - account not found")
 
 
 
