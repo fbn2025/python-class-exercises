@@ -31,7 +31,6 @@ class Calculator:
         if self.log_results:
             print(f"The sum of {num1} and {num2} is {result}")
 
-        # goal
         self.history.addition.append((num1, num2, result))
 
         return result
@@ -42,7 +41,6 @@ class Calculator:
         if self.log_results:
             print(f"The difference of {num1} and {num2} is {result}")
 
-        # goal
         self.history.subtraction.append((num1, num2, result))
 
         return result
@@ -53,7 +51,6 @@ class Calculator:
         if self.log_results:
             print(f"The multiplication of {num1} and {num2} is {result}")
 
-        # goal
         self.history.multiplication.append((num1, num2, result))
 
         return result
@@ -67,7 +64,6 @@ class Calculator:
         if self.log_results:
             print(f"The division of {num1} and {num2} is {result}")
 
-        # goal
         self.history.division.append((num1, num2, result))
 
         return result
