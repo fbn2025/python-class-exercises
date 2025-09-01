@@ -1,0 +1,419 @@
+Results for all solutions
+
+--- Test Report for Akinsolagideonn - day1/section-6/Akinsolagideonn/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for Andrewemmanuel416 - day1/section-6/Andrewemmanuel416/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for Chinwekeleanthony - day1/section-6/Chinwekeleanthony/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for Shodeindesimeon - day1/section-6/Shodeindesimeon/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for Ubarajf - day1/section-6/Ubarajf/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for adamsunday39 - day1/section-6/adamsunday39/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for adeeyoabdulgafar - day1/section-6/adeeyoabdulgafar/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for akandegbolahanayomide - day1/section-6/akandegbolahanayomide/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for akintayoabidemitope - day1/section-6/akintayoabidemitope/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for almusty2impact - day1/section-6/almusty2impact/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for andealexis12 - day1/section-6/andealexis12/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for badmusibrahimadewale01 - day1/section-6/badmusibrahimadewale01/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for blessingisoken97 - day1/section-6/blessingisoken97/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for daniellachukwu772 - day1/section-6/daniellachukwu772/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for davidadinnu - day1/section-6/davidadinnu/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for echinnannachukwuemeka - day1/section-6/echinnannachukwuemeka/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for egunjobiayooluwa - day1/section-6/egunjobiayooluwa/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
+
+--- Test Report for emmanueleyo023 - day1/section-6/emmanueleyo023/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for eneuneochedi - day1/section-6/eneuneochedi/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for euniceobasanmi - day1/section-6/euniceobasanmi/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for ezinne.emegharaibe - day1/section-6/ezinne.emegharaibe/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for felixchukwuemeka64 - day1/section-6/felixchukwuemeka64/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for francisadedejiayo - day1/section-6/francisadedejiayo/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for fridayks96 - day1/section-6/fridayks96/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for gbadamosifatimah01 - day1/section-6/gbadamosifatimah01/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for harrisoncovenant - day1/section-6/harrisoncovenant/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for hifeally - day1/section-6/hifeally/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
+
+--- Test Report for hildajack16 - day1/section-6/hildajack16/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for ibehamarachi18 - day1/section-6/ibehamarachi18/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for ijeomareaganok - day1/section-6/ijeomareaganok/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for ijeteoluwatobi - day1/section-6/ijeteoluwatobi/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for infoaboutgideon - day1/section-6/infoaboutgideon/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for jessetak - day1/section-6/jessetak/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for johnadejumo93 - day1/section-6/johnadejumo93/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for mairogreat - day1/section-6/mairogreat/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for moyindanisi - day1/section-6/moyindanisi/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for obiefunadimz - day1/section-6/obiefunadimz/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for olawaleajibola30 - day1/section-6/olawaleajibola30/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for omagbemimogbeyi - day1/section-6/omagbemimogbeyi/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for onihunwaa - day1/section-6/onihunwaa/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
+
+--- Test Report for onwuteakadavid - day1/section-6/onwuteakadavid/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for onyinye.ogbonna.maryjane - day1/section-6/onyinye.ogbonna.maryjane/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for oridami49 - day1/section-6/oridami49/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for osuagwuucheoma - day1/section-6/osuagwuucheoma/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for robertzerah - day1/section-6/robertzerah/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for similoluwaoluwatomisin - day1/section-6/similoluwaoluwatomisin/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!
+
+--- Test Report for tosinobateru01 - day1/section-6/tosinobateru01/main.py ---
+Test 1: ✅ Passed
+Test 2: ✅ Passed
+Test 3: ✅ Passed
+Test 4: ✅ Passed
+Test 5: ✅ Passed
+🎉 All tests passed!

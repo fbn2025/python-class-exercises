@@ -1,0 +1,67 @@
+Results for failing solutions
+
+--- Test Report for egunjobiayooluwa - day1/section-6/egunjobiayooluwa/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
+
+--- Test Report for hifeally - day1/section-6/hifeally/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
+
+--- Test Report for onihunwaa - day1/section-6/onihunwaa/main.py ---
+Test 1: ❌ Failed
+   Expected: (1, 9)
+   Got     : In the list (1, 2, 3, 4, 5, 6, 7, 8, 9), 
+ 	 the minimum value is 1, and maximum value is 9
+Test 2: ❌ Failed
+   Expected: (-90, 3849)
+   Got     : In the list (-8, -6, 9, -90, 344, 3849, 1000.0), 
+ 	 the minimum value is -90, and maximum value is 3849
+Test 3: ❌ Failed
+   Expected: (-389248, 3839489340)
+   Got     : In the list (57839848, 3839489340, -389248, 3489234892, 338923893), 
+ 	 the minimum value is -389248, and maximum value is 3839489340
+Test 4: ❌ Failed
+   Expected: (-100000000000.0, 1e+23)
+   Got     : In the list (1e+23, -100000000000.0, 38, -40), 
+ 	 the minimum value is -100000000000.0, and maximum value is 1e+23
+Test 5: ❌ Failed
+   Expected: (-11, -2)
+   Got     : In the list (-2, -3, -4, -5, -6, -7, -11), 
+ 	 the minimum value is -11, and maximum value is -2
