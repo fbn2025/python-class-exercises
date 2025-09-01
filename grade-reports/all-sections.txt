@@ -1,0 +1,406 @@
+Checking solutions for section-2
+
+Student     Lines
+----------------
+day1/section-2/similoluwaoluwatomisin/main.py 23    <-- HIGH OUTLIER
+day1/section-2/ijeomareaganok/main.py 22    <-- HIGH OUTLIER
+day1/section-2/adamsunday39/main.py 20    <-- HIGH OUTLIER
+day1/section-2/fridayks96/main.py 19   
+day1/section-2/osuagwuucheoma/main.py 18   
+day1/section-2/almusty2impact/main.py 18   
+day1/section-2/omagbemimogbeyi/main.py 18   
+day1/section-2/obiefunadimz/main.py 18   
+day1/section-2/ijeteoluwatobi/main.py 18   
+day1/section-2/onihunwaa/main.py 18   
+day1/section-2/emmanueleyo023/main.py 18   
+day1/section-2/akandegbolahanayomide/main.py 18   
+day1/section-2/davidadinnu/main.py 18   
+day1/section-2/felixchukwuemeka64/main.py 18   
+day1/section-2/gbadamosifatimah01/main.py 17   
+day1/section-2/johnadejumo93/main.py 17   
+day1/section-2/eneuneochedi/main.py 17   
+day1/section-2/Ubarajf/main.py 17   
+day1/section-2/ezinne.emegharaibe/main.py 17   
+day1/section-2/echinnannachukwuemeka/main.py 17   
+day1/section-2/tosinobateru01/main.py 17   
+day1/section-2/daniellachukwu772/main.py 17   
+day1/section-2/Chinwekeleanthony/main.py 17   
+day1/section-2/harrisoncovenant/main.py 17   
+day1/section-2/hifeally/main.py 17   
+day1/section-2/hildajack16/main.py 17   
+day1/section-2/ibehamarachi18/main.py 17   
+day1/section-2/blessingisoken97/main.py 17   
+day1/section-2/badmusibrahimadewale01/main.py 17   
+day1/section-2/infoaboutgideon/main.py 17   
+day1/section-2/jessetak/main.py 17   
+day1/section-2/egunjobiayooluwa/main.py 17   
+day1/section-2/mairogreat/main.py 17   
+day1/section-2/moyindanisi/main.py 17   
+day1/section-2/Andrewemmanuel416/main.py 17   
+day1/section-2/olawaleajibola30/main.py 17   
+day1/section-2/andealexis12/main.py 17   
+day1/section-2/akintayoabidemitope/main.py 17   
+day1/section-2/onwuteakadavid/main.py 17   
+day1/section-2/onyinye.ogbonna.maryjane/main.py 17   
+day1/section-2/adeeyoabdulgafar/main.py 17   
+day1/section-2/Akinsolagideonn/main.py 17   
+day1/section-2/robertzerah/main.py 17   
+day1/section-2/Shodeindesimeon/main.py 17   
+day1/section-2/oridami49/main.py 16   
+day1/section-2/francisadedejiayo/main.py 16   
+day1/section-2/euniceobasanmi/main.py 15    <-- LOW OUTLIER
+
+Statistics:
+Count: 47, Mean: 17.47, Median: 17.00, SD: 1.30, Q1: 17.00, Q3: 18.00, IQR: 1.00
+
+
+
+
+Checking solutions for section-3
+
+Student     Lines
+----------------
+day1/section-3/adeeyoabdulgafar/main.py 39    <-- HIGH OUTLIER
+day1/section-3/ijeteoluwatobi/main.py 22    <-- HIGH OUTLIER
+day1/section-3/francisadedejiayo/main.py 15    <-- HIGH OUTLIER
+day1/section-3/eneuneochedi/main.py 14    <-- HIGH OUTLIER
+day1/section-3/similoluwaoluwatomisin/main.py 13    <-- HIGH OUTLIER
+day1/section-3/Shodeindesimeon/main.py 10   
+day1/section-3/robertzerah/main.py 10   
+day1/section-3/osuagwuucheoma/main.py 10   
+day1/section-3/onihunwaa/main.py 10   
+day1/section-3/ezinne.emegharaibe/main.py 10   
+day1/section-3/Chinwekeleanthony/main.py 10   
+day1/section-3/daniellachukwu772/main.py 10   
+day1/section-3/gbadamosifatimah01/main.py 9    
+day1/section-3/infoaboutgideon/main.py 9    
+day1/section-3/egunjobiayooluwa/main.py 9    
+day1/section-3/emmanueleyo023/main.py 9    
+day1/section-3/davidadinnu/main.py 9    
+day1/section-3/euniceobasanmi/main.py 9    
+day1/section-3/blessingisoken97/main.py 9    
+day1/section-3/felixchukwuemeka64/main.py 9    
+day1/section-3/badmusibrahimadewale01/main.py 9    
+day1/section-3/fridayks96/main.py 9    
+day1/section-3/adamsunday39/main.py 9    
+day1/section-3/harrisoncovenant/main.py 9    
+day1/section-3/hifeally/main.py 9    
+day1/section-3/hildajack16/main.py 9    
+day1/section-3/ibehamarachi18/main.py 9    
+day1/section-3/ijeomareaganok/main.py 9    
+day1/section-3/Ubarajf/main.py 9    
+day1/section-3/echinnannachukwuemeka/main.py 9    
+day1/section-3/jessetak/main.py 9    
+day1/section-3/johnadejumo93/main.py 9    
+day1/section-3/mairogreat/main.py 9    
+day1/section-3/moyindanisi/main.py 9    
+day1/section-3/obiefunadimz/main.py 9    
+day1/section-3/olawaleajibola30/main.py 9    
+day1/section-3/omagbemimogbeyi/main.py 9    
+day1/section-3/andealexis12/main.py 9    
+day1/section-3/onwuteakadavid/main.py 9    
+day1/section-3/onyinye.ogbonna.maryjane/main.py 9    
+day1/section-3/oridami49/main.py 9    
+day1/section-3/almusty2impact/main.py 9    
+day1/section-3/akintayoabidemitope/main.py 9    
+day1/section-3/Akinsolagideonn/main.py 9    
+day1/section-3/akandegbolahanayomide/main.py 9    
+day1/section-3/tosinobateru01/main.py 9    
+day1/section-3/Andrewemmanuel416/main.py 8    
+
+Statistics:
+Count: 47, Mean: 10.36, Median: 9.00, SD: 4.76, Q1: 9.00, Q3: 10.00, IQR: 1.00
+
+
+
+
+Checking solutions for section-4
+
+Student     Lines
+----------------
+day1/section-4/similoluwaoluwatomisin/main.py 31    <-- HIGH OUTLIER
+day1/section-4/almusty2impact/main.py 28   
+day1/section-4/infoaboutgideon/main.py 27   
+day1/section-4/eneuneochedi/main.py 27   
+day1/section-4/Andrewemmanuel416/main.py 24   
+day1/section-4/francisadedejiayo/main.py 23   
+day1/section-4/obiefunadimz/main.py 22   
+day1/section-4/johnadejumo93/main.py 22   
+day1/section-4/adamsunday39/main.py 22   
+day1/section-4/ijeteoluwatobi/main.py 21   
+day1/section-4/robertzerah/main.py 20   
+day1/section-4/onyinye.ogbonna.maryjane/main.py 19   
+day1/section-4/egunjobiayooluwa/main.py 18   
+day1/section-4/oridami49/main.py 18   
+day1/section-4/onihunwaa/main.py 17   
+day1/section-4/blessingisoken97/main.py 17   
+day1/section-4/Ubarajf/main.py 17   
+day1/section-4/echinnannachukwuemeka/main.py 16   
+day1/section-4/mairogreat/main.py 16   
+day1/section-4/osuagwuucheoma/main.py 16   
+day1/section-4/Shodeindesimeon/main.py 16   
+day1/section-4/gbadamosifatimah01/main.py 15   
+day1/section-4/ibehamarachi18/main.py 15   
+day1/section-4/tosinobateru01/main.py 15   
+day1/section-4/daniellachukwu772/main.py 15   
+day1/section-4/davidadinnu/main.py 15   
+day1/section-4/felixchukwuemeka64/main.py 14   
+day1/section-4/olawaleajibola30/main.py 14   
+day1/section-4/adeeyoabdulgafar/main.py 14   
+day1/section-4/ezinne.emegharaibe/main.py 14   
+day1/section-4/akandegbolahanayomide/main.py 14   
+day1/section-4/omagbemimogbeyi/main.py 14   
+day1/section-4/emmanueleyo023/main.py 14   
+day1/section-4/hifeally/main.py 13   
+day1/section-4/jessetak/main.py 13   
+day1/section-4/moyindanisi/main.py 13   
+day1/section-4/euniceobasanmi/main.py 13   
+day1/section-4/ijeomareaganok/main.py 13   
+day1/section-4/onwuteakadavid/main.py 13   
+day1/section-4/badmusibrahimadewale01/main.py 12   
+day1/section-4/hildajack16/main.py 12   
+day1/section-4/andealexis12/main.py 12   
+day1/section-4/Akinsolagideonn/main.py 12   
+day1/section-4/harrisoncovenant/main.py 12   
+day1/section-4/akintayoabidemitope/main.py 11   
+day1/section-4/Chinwekeleanthony/main.py 11   
+day1/section-4/fridayks96/main.py 11   
+
+Statistics:
+Count: 47, Mean: 16.62, Median: 15.00, SD: 4.88, Q1: 13.00, Q3: 19.00, IQR: 6.00
+
+
+
+
+Checking solutions for section-5
+
+Student     Lines
+----------------
+day1/section-5/similoluwaoluwatomisin/main.py 66    <-- HIGH OUTLIER
+day1/section-5/infoaboutgideon/main.py 66    <-- HIGH OUTLIER
+day1/section-5/akandegbolahanayomide/main.py 38   
+day1/section-5/johnadejumo93/main.py 37   
+day1/section-5/ijeomareaganok/main.py 37   
+day1/section-5/osuagwuucheoma/main.py 36   
+day1/section-5/eneuneochedi/main.py 34   
+day1/section-5/Shodeindesimeon/main.py 33   
+day1/section-5/onihunwaa/main.py 32   
+day1/section-5/Andrewemmanuel416/main.py 32   
+day1/section-5/obiefunadimz/main.py 32   
+day1/section-5/almusty2impact/main.py 32   
+day1/section-5/daniellachukwu772/main.py 32   
+day1/section-5/ibehamarachi18/main.py 32   
+day1/section-5/fridayks96/main.py 32   
+day1/section-5/ezinne.emegharaibe/main.py 32   
+day1/section-5/gbadamosifatimah01/main.py 31   
+day1/section-5/emmanueleyo023/main.py 31   
+day1/section-5/Ubarajf/main.py 31   
+day1/section-5/omagbemimogbeyi/main.py 31   
+day1/section-5/davidadinnu/main.py 31   
+day1/section-5/onyinye.ogbonna.maryjane/main.py 30   
+day1/section-5/Chinwekeleanthony/main.py 30   
+day1/section-5/ijeteoluwatobi/main.py 29   
+day1/section-5/mairogreat/main.py 29   
+day1/section-5/egunjobiayooluwa/main.py 29   
+day1/section-5/akintayoabidemitope/main.py 29   
+day1/section-5/olawaleajibola30/main.py 29   
+day1/section-5/francisadedejiayo/main.py 28   
+day1/section-5/badmusibrahimadewale01/main.py 28   
+day1/section-5/blessingisoken97/main.py 28   
+day1/section-5/hifeally/main.py 27   
+day1/section-5/moyindanisi/main.py 27   
+day1/section-5/euniceobasanmi/main.py 27   
+day1/section-5/oridami49/main.py 27   
+day1/section-5/robertzerah/main.py 25   
+day1/section-5/jessetak/main.py 25   
+day1/section-5/echinnannachukwuemeka/main.py 24   
+day1/section-5/hildajack16/main.py 24   
+day1/section-5/andealexis12/main.py 23   
+day1/section-5/Akinsolagideonn/main.py 21   
+day1/section-5/harrisoncovenant/main.py 20   
+day1/section-5/onwuteakadavid/main.py 12    <-- LOW OUTLIER
+day1/section-5/tosinobateru01/main.py 12    <-- LOW OUTLIER
+day1/section-5/adamsunday39/main.py 10    <-- LOW OUTLIER
+day1/section-5/felixchukwuemeka64/main.py 10    <-- LOW OUTLIER
+day1/section-5/adeeyoabdulgafar/main.py 6     <-- LOW OUTLIER
+
+Statistics:
+Count: 47, Mean: 29.09, Median: 29.00, SD: 10.56, Q1: 25.00, Q3: 32.00, IQR: 7.00
+
+
+
+
+Checking solutions for section-6
+
+Student     Lines
+----------------
+day1/section-6/almusty2impact/main.py 39    <-- HIGH OUTLIER
+day1/section-6/ijeomareaganok/main.py 39    <-- HIGH OUTLIER
+day1/section-6/similoluwaoluwatomisin/main.py 38    <-- HIGH OUTLIER
+day1/section-6/gbadamosifatimah01/main.py 38    <-- HIGH OUTLIER
+day1/section-6/ezinne.emegharaibe/main.py 37    <-- HIGH OUTLIER
+day1/section-6/infoaboutgideon/main.py 36    <-- HIGH OUTLIER
+day1/section-6/eneuneochedi/main.py 34   
+day1/section-6/Ubarajf/main.py 27   
+day1/section-6/harrisoncovenant/main.py 25   
+day1/section-6/felixchukwuemeka64/main.py 25   
+day1/section-6/Shodeindesimeon/main.py 25   
+day1/section-6/tosinobateru01/main.py 24   
+day1/section-6/ijeteoluwatobi/main.py 24   
+day1/section-6/obiefunadimz/main.py 23   
+day1/section-6/fridayks96/main.py 23   
+day1/section-6/francisadedejiayo/main.py 23   
+day1/section-6/adamsunday39/main.py 22   
+day1/section-6/badmusibrahimadewale01/main.py 22   
+day1/section-6/Akinsolagideonn/main.py 22   
+day1/section-6/moyindanisi/main.py 21   
+day1/section-6/oridami49/main.py 21   
+day1/section-6/olawaleajibola30/main.py 21   
+day1/section-6/blessingisoken97/main.py 21   
+day1/section-6/euniceobasanmi/main.py 21   
+day1/section-6/johnadejumo93/main.py 21   
+day1/section-6/Chinwekeleanthony/main.py 20   
+day1/section-6/emmanueleyo023/main.py 20   
+day1/section-6/onwuteakadavid/main.py 20   
+day1/section-6/mairogreat/main.py 19   
+day1/section-6/adeeyoabdulgafar/main.py 19   
+day1/section-6/akintayoabidemitope/main.py 19   
+day1/section-6/robertzerah/main.py 19   
+day1/section-6/hildajack16/main.py 19   
+day1/section-6/omagbemimogbeyi/main.py 18   
+day1/section-6/onyinye.ogbonna.maryjane/main.py 18   
+day1/section-6/osuagwuucheoma/main.py 17   
+day1/section-6/ibehamarachi18/main.py 16   
+day1/section-6/akandegbolahanayomide/main.py 16   
+day1/section-6/echinnannachukwuemeka/main.py 14   
+day1/section-6/Andrewemmanuel416/main.py 14   
+day1/section-6/daniellachukwu772/main.py 14   
+day1/section-6/hifeally/main.py 12   
+day1/section-6/onihunwaa/main.py 12   
+day1/section-6/egunjobiayooluwa/main.py 12   
+day1/section-6/andealexis12/main.py 8    
+day1/section-6/davidadinnu/main.py 8    
+day1/section-6/jessetak/main.py 8    
+
+Statistics:
+Count: 47, Mean: 21.57, Median: 21.00, SD: 7.96, Q1: 17.00, Q3: 24.00, IQR: 7.00
+
+
+
+
+Checking solutions for section-7
+
+Student     Lines
+----------------
+day1/section-7/blessingisoken97/main.py 91   
+day1/section-7/egunjobiayooluwa/main.py 91   
+day1/section-7/hifeally/main.py 91   
+day1/section-7/olawaleajibola30/main.py 91   
+day1/section-7/infoaboutgideon/main.py 90   
+day1/section-7/fridayks96/main.py 89   
+day1/section-7/obiefunadimz/main.py 88   
+day1/section-7/davidadinnu/main.py 87   
+day1/section-7/johnadejumo93/main.py 84   
+day1/section-7/ezinne.emegharaibe/main.py 83   
+day1/section-7/francisadedejiayo/main.py 82   
+day1/section-7/almusty2impact/main.py 80   
+day1/section-7/similoluwaoluwatomisin/main.py 78   
+day1/section-7/daniellachukwu772/main.py 77   
+day1/section-7/robertzerah/main.py 76   
+day1/section-7/onyinye.ogbonna.maryjane/main.py 75   
+day1/section-7/Ubarajf/main.py 75   
+day1/section-7/moyindanisi/main.py 74   
+day1/section-7/oridami49/main.py 74   
+day1/section-7/adeeyoabdulgafar/main.py 74   
+day1/section-7/ijeteoluwatobi/main.py 70   
+day1/section-7/badmusibrahimadewale01/main.py 69   
+day1/section-7/Shodeindesimeon/main.py 69   
+day1/section-7/osuagwuucheoma/main.py 69   
+day1/section-7/ijeomareaganok/main.py 66   
+day1/section-7/Andrewemmanuel416/main.py 64   
+day1/section-7/akandegbolahanayomide/main.py 64   
+day1/section-7/adamsunday39/main.py 64   
+day1/section-7/onihunwaa/main.py 64   
+day1/section-7/Akinsolagideonn/main.py 63   
+day1/section-7/mairogreat/main.py 62   
+day1/section-7/emmanueleyo023/main.py 62   
+day1/section-7/ibehamarachi18/main.py 61   
+day1/section-7/onwuteakadavid/main.py 61   
+day1/section-7/andealexis12/main.py 60   
+day1/section-7/tosinobateru01/main.py 58   
+day1/section-7/hildajack16/main.py 56   
+day1/section-7/akintayoabidemitope/main.py 56   
+day1/section-7/Chinwekeleanthony/main.py 56   
+day1/section-7/gbadamosifatimah01/main.py 52   
+day1/section-7/echinnannachukwuemeka/main.py 43   
+day1/section-7/omagbemimogbeyi/main.py 38   
+day1/section-7/jessetak/main.py 38   
+day1/section-7/euniceobasanmi/main.py 38   
+day1/section-7/harrisoncovenant/main.py 38   
+day1/section-7/eneuneochedi/main.py 38   
+day1/section-7/felixchukwuemeka64/main.py 28   
+
+Statistics:
+Count: 47, Mean: 67.17, Median: 69.00, SD: 16.56, Q1: 58.00, Q3: 80.00, IQR: 22.00
+
+
+
+
+Checking solutions for section-8
+
+Student     Lines
+----------------
+day1/section-8/eneuneochedi/main.py 144   <-- HIGH OUTLIER
+day1/section-8/ijeteoluwatobi/main.py 86   
+day1/section-8/Shodeindesimeon/main.py 86   
+day1/section-8/Ubarajf/main.py 85   
+day1/section-8/similoluwaoluwatomisin/main.py 79   
+day1/section-8/infoaboutgideon/main.py 78   
+day1/section-8/almusty2impact/main.py 78   
+day1/section-8/emmanueleyo023/main.py 74   
+day1/section-8/Andrewemmanuel416/main.py 69   
+day1/section-8/obiefunadimz/main.py 68   
+day1/section-8/onyinye.ogbonna.maryjane/main.py 64   
+day1/section-8/fridayks96/main.py 61   
+day1/section-8/johnadejumo93/main.py 61   
+day1/section-8/akandegbolahanayomide/main.py 60   
+day1/section-8/egunjobiayooluwa/main.py 59   
+day1/section-8/badmusibrahimadewale01/main.py 57   
+day1/section-8/echinnannachukwuemeka/main.py 57   
+day1/section-8/Akinsolagideonn/main.py 57   
+day1/section-8/ibehamarachi18/main.py 57   
+day1/section-8/Chinwekeleanthony/main.py 56   
+day1/section-8/akintayoabidemitope/main.py 56   
+day1/section-8/robertzerah/main.py 55   
+day1/section-8/daniellachukwu772/main.py 55   
+day1/section-8/onihunwaa/main.py 54   
+day1/section-8/oridami49/main.py 51   
+day1/section-8/mairogreat/main.py 50   
+day1/section-8/adamsunday39/main.py 49   
+day1/section-8/felixchukwuemeka64/main.py 48   
+day1/section-8/ezinne.emegharaibe/main.py 48   
+day1/section-8/onwuteakadavid/main.py 48   
+day1/section-8/ijeomareaganok/main.py 48   
+day1/section-8/moyindanisi/main.py 47   
+day1/section-8/francisadedejiayo/main.py 47   
+day1/section-8/andealexis12/main.py 35   
+day1/section-8/osuagwuucheoma/main.py 31   
+day1/section-8/olawaleajibola30/main.py 20   
+day1/section-8/omagbemimogbeyi/main.py 20   
+day1/section-8/harrisoncovenant/main.py 20   
+day1/section-8/gbadamosifatimah01/main.py 20   
+day1/section-8/jessetak/main.py 20   
+day1/section-8/euniceobasanmi/main.py 20   
+day1/section-8/hifeally/main.py 20   
+day1/section-8/davidadinnu/main.py 20   
+day1/section-8/blessingisoken97/main.py 20   
+day1/section-8/hildajack16/main.py 20   
+day1/section-8/tosinobateru01/main.py 20   
+day1/section-8/adeeyoabdulgafar/main.py 20   
+
+Statistics:
+Count: 47, Mean: 51.02, Median: 54.00, SD: 24.69, Q1: 20.00, Q3: 61.00, IQR: 41.00
+
+
+
+
